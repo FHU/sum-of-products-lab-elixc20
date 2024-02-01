@@ -21,6 +21,8 @@ if __name__ == '__main__':
     list1 = []
     list2 = []
 
+    #comment
+
     for digit in list1_string:
         list1.append(int(digit))
     for digit in list2_string:
