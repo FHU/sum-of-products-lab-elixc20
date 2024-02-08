@@ -22,6 +22,7 @@ if __name__ == '__main__':
     list2 = []
 
     #comment
+    #comment2
 
     for digit in list1_string:
         list1.append(int(digit))
